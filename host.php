@@ -30,5 +30,6 @@ echo "<br>Self = ".basename($_SERVER['PHP_SELF']);
 
 echo "<br>Referre = ".$_SERVER['HTTP_REFERER'];
 echo "<br><br>";
+echo "<br>SATYEN";
 phpinfo();
 ?>
